@@ -14,6 +14,8 @@ const Home = () => {
                 </div>
             </div>
 
+
+
             <div className={classes["home__body"]}>
                 <div className={classes["body_left"]}>
                     <strong>28<sup>&#9900;</sup>C</strong>
